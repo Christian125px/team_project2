@@ -1,0 +1,22 @@
+Librerie da implementare:
+
+NumPy: Per calcoli scientifici e matriciali. (pip install numpy)
+
+
+pandas: Per l'analisi dei dati e la manipolazione dei dati tabellari. (pip install pandas)
+
+
+Matplotlib e Seaborn: Per la visualizzazione dei dati. (pip install matplotlib e pip install seaborn)
+
+
+
+Afinn: Per l'analisi del sentimento o sentiment analysis (pip install afinn)
+
+
+SQLAlchemy: Per l'accesso e la manipolazione dei database relazionali. (pip install sqlalchemy)
+
+
+Pillow: Per la manipolazione delle immagini (pip install pillow)
+
+
+
